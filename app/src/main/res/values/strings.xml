@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pertemuan4</string>
+    <string name="nama">Hafizh Trisnindito</string>
+    <string name="nim">H1D020063</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id purus suscipit urna faucibus ultricies. Vivamus a efficitur risus, rhoncus efficitur metus. Aliquam et ante ligula. Suspendisse efficitur, turpis et convallis iaculis, mi risus viverra urna, vel laoreet massa augue eget elit. Sed in blandit ex, non vehicula magna. Aenean sit amet egestas felis. Nullam vitae fermentum velit.
+
+Aenean id odio ultricies, porta ligula quis, vestibulum tortor. Praesent erat lectus, gravida sit amet nibh ut, ullamcorper blandit tellus. Nulla fringilla metus tristique mattis porta. Quisque nec arcu eu nibh facilisis semper. Sed venenatis posuere tortor quis pulvinar. Duis sagittis rhoncus pellentesque. Quisque dapibus orci quis elit volutpat, aliquet vehicula leo imperdiet. Nam tellus neque, sagittis rutrum commodo nec, elementum hendrerit risus. Sed iaculis mauris non pulvinar consequat.
+
+Phasellus id condimentum lectus. Praesent non ipsum hendrerit, convallis mauris in, bibendum mi. Nullam quis accumsan nulla, et dignissim magna. Sed gravida sapien velit, a gravida ipsum tempus in. Maecenas fermentum leo at massa vulputate, in placerat urna rutrum. Praesent faucibus scelerisque auctor. Donec non aliquet arcu. Donec facilisis finibus dui quis maximus. Pellentesque interdum iaculis sodales. Aliquam erat volutpat. Aliquam erat volutpat. Proin varius eu enim et accumsan.
+
+Suspendisse potenti. Sed elementum condimentum magna, quis fermentum ligula malesuada sit amet. Ut fermentum dui eget tellus rhoncus, ut sodales mauris tempus. Nulla tincidunt vitae risus sit amet efficitur. Nulla at lacus egestas, blandit justo ut, facilisis arcu. Curabitur non nulla et lectus tristique finibus sit amet porta magna. Aliquam consectetur erat at nisi gravida pellentesque. Integer aliquet ac lorem sit amet rutrum. Nunc cursus turpis vitae urna efficitur, sagittis vestibulum magna facilisis. Nulla elementum nec est in sollicitudin.</string>
+
+    <string-array name="fakultas">
+        <item>Fakultas Teknik</item>
+        <item>Fakultas Ekonomi dan Bisnis</item>
+        <item>Fakultas Peternakan</item>
+        <item>Fakultas Pertanian</item>
+        <item>Fakultas Ilmu Sosial dan Ilmu Politik</item>
+        <item>Fakultas Perairan dan Ilmu Kelautan</item>
+    </string-array>
+</resources>
